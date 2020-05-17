@@ -1,0 +1,32 @@
+.hover-invert:not(.active):hover {
+    color:white;
+    background: tomato;
+}
+/* A Final Tribute to professor Gargano */
+
+.list-group li {
+    border-style: none;
+}
+
+.list-group {
+    color:blue;
+
+}
+
+img {
+    max-height: 400px;
+    width: 300px;
+}
+
+h1,h2 {
+    font-family: 'Bungee Inline', cursive;
+    color: blue;
+}
+
+h1 {
+    font-size: 2.3em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
